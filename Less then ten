@@ -1,0 +1,18 @@
+#takes the list in "a" and returns the new values in the new list "b"
+
+a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+b = []
+c = []
+for number in a:
+    if number < 5:
+        b.append(number)
+print(b)
+
+'''asks for the user a number, and return a list that contains
+only elements from the original list a that are smaller than that number given by the user.'''
+
+user_number = int(input("Please enter a number: "))
+for value in a:
+    if value < user_number:
+        c.append(value)
+print(c)
