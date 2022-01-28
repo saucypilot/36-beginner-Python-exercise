@@ -21,3 +21,6 @@ If check divides evenly into num, it tells the user.
 
 **6. Palindrome**
 >Ask the user for a string and print out whether this string is a palindrome or not.
+
+**7. Rock, paper, scissor**
+> Two-player Rock-Paper-Scissors game.
