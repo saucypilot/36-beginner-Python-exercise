@@ -24,3 +24,6 @@ If check divides evenly into num, it tells the user.
 
 **7. Rock, paper, scissor**
 > Two-player Rock-Paper-Scissors game.
+
+**8. Guessing gamr**
+>This generates a random number between 1 and 9 then asks you toguess the number. It also tells whether you guessed too low, too high, or exactly right.
