@@ -33,3 +33,6 @@ If check divides evenly into num, it tells the user.
 
 **10. List Overlap Ompreehnsions**
 >Reuses exercise 5 but use one line of code to compare both lists.
+
+**11. Check primality functions**
+>Reuses exercise 4 but turns old code into functions
