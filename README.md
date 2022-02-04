@@ -30,3 +30,6 @@ If check divides evenly into num, it tells the user.
 
 **9. Lists Comprehension**
 >Has one line of Python code that takes a list and makes a new list that has only the even elements.
+
+**10. List Overlap Ompreehnsions**
+>Reuses exercise 5 but use one line of code to compare both lists.
