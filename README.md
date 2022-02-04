@@ -36,3 +36,6 @@ If check divides evenly into num, it tells the user.
 
 **11. Check primality functions**
 >Reuses exercise 4 but turns old code into a function and uses list comprehension. 
+
+**12. List ends**
+>Takes a list and retuns the first and last elements of the given list. 
