@@ -16,7 +16,7 @@ If check divides evenly into num, it tells the user.
 **4. Divisor calculater***
 >This code asks the user for a number and then prints out a list of all the divisors of that number.
 
-**5. Lists Overlap***
+**5. Lists overlap***
 >This program randomly generates numbers for 2 lists and then returns a new lists that contains numbers present on both list. The user can control how many numbers are present.
 
 **6. Palindrome**
@@ -28,11 +28,11 @@ If check divides evenly into num, it tells the user.
 **8. Guessing game**
 >This generates a random number between 1 and 9 then asks you toguess the number. It also tells whether you guessed too low, too high, or exactly right.
 
-**9. Lists Comprehension**
+**9. Lists comprehension**
 >Has one line of Python code that takes a list and makes a new list that has only the even elements.
 
-**10. List Overlap Ompreehnsions**
+**10. List overlap comprehensions**
 >Reuses exercise 5 but use one line of code to compare both lists.
 
 **11. Check primality functions**
->Reuses exercise 4 but turns old code into functions
+>Reuses exercise 4 but turns old code into a function and uses list comprehension. 
