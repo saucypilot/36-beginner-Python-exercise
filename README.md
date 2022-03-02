@@ -1,5 +1,5 @@
 # Overview
-This project uses the practice exercises from https://www.practicepython.org/. I did not look at the solutions and coded all the programs bymself. 
+This project uses the practice exercises from https://www.practicepython.org/.
 This project does not perfectly mirror everything from that website. There are a things that I changed in this project to make it better or more challenging. 
 
 # Project lists
