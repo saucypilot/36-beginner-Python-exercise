@@ -42,3 +42,9 @@ If check divides evenly into num, it tells the user.
 
 **13. Fibonacci**
 >Program that asks the user how many Fibonnaci numbers to generate.
+
+**14. List Remove Duplicates Solutions**
+>Takes a list and returns a new list that contains all the elements of the first list minus all the duplicates.
+
+**15. Reverse Word Order**
+>Asks the user for a long string containing multiple words. Print back to the user the same string, except with the words in backwards order.
